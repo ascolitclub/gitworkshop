@@ -1,0 +1,4 @@
+Name = Hemanta Neupane
+Faculty = CSIT
+Sem = first
+Email = hemantaneupane76@gmail.com
